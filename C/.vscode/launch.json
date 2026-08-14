@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Usuario/Documents/programming/C",
-      "program": "c:/Users/Usuario/Documents/programming/C/build/Debug/outDebug",
+      "cwd": "c:/Users/Usuario/Documents/programming/C/ambrolandia",
+      "program": "c:/Users/Usuario/Documents/programming/C/ambrolandia/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
